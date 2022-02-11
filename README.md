@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astrodeepam
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning mongoDB
-- 💞️ I’m looking to collaborate on phython projects
+- 💞️ I’m looking to collaborate on python projects
 - 📫 deepamkyadav2003@gmail.com
 
 <!---
